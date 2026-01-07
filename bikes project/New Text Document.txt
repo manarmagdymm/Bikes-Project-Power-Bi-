@@ -1,4 +1,5 @@
 increase in price = new price-oldprice / old price =0.25, 25% increasing
 increase in demand the same way as price = 65%
 price elasticity usually it's a negative number but in this case there is other things that play but i'ts pretty clear we can increase the price 
-price elasticity= increase in deman /increase in the price, and it is means that increase the price the deman will go down by 2.56 cent
+Price elasticity = the percentage change in demand divided by the percentage change in price.
+This means that if the price increases by 1%, demand will decrease by 2.56%.
