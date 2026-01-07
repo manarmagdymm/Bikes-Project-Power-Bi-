@@ -25,3 +25,4 @@ Tools & Techniques
 
 - Power BI: Interactive dashboard design, DAX measures (Profit Margin, Date Day).
 - SQL (MySQL): Data cleaning and preparation using CTEs and joins.
+- Business Analysis.
