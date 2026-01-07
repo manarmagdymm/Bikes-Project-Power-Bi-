@@ -23,5 +23,5 @@ Conclusion: The business can increase prices without losing demand, as customers
 
 Tools & Techniques
 
-- Power BI: Interactive dashboard design, DAX measures (Profit Margin, YoY Growth).
-- SQL (MySQL Workbench): Data cleaning and preparation using CTEs and joins.
+- Power BI: Interactive dashboard design, DAX measures (Profit Margin, Date Day).
+- SQL (MySQL): Data cleaning and preparation using CTEs and joins.
